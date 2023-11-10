@@ -1,0 +1,26 @@
+{
+  "name": "Emily Edwards",
+  "age": 50,
+  "address": {
+    "street": "Licil Heights",
+    "city": "Dozana",
+    "state": "WI",
+    "zip": "20725"
+  },
+  "contact": {
+    "phone": "(567) 818-1611",
+    "servicePhone": "800217868"
+  },
+  "birthday": "2001-12-04T03:54:43.975Z",
+  "ip": "18.238.42.56",
+  "foo": "bar",
+  "profile": {
+    "about": "Bovubiote tadnotim etevivrad kijwa pes hi ejkuw pikulo is daje bewente tiohe daaj. Civuko vokoh ockolul gok naweb jumsuv depro vo offevpig poseta weh fomsoama ozo. Ehedla mofbofu laromi vihuh ku jujoto ivolaclub hovrufkoj apaper hanefe fe sipefkel bicjo. Lodeja zajmesi kar naf kopis cacwuk wi hub ra tevvi pogowwo ew wavife.",
+    "bio": "Nihhuhlef ofazaef dosug pik ma du dok gattirco to vi vagmi za vahab oka. Ofno ecwigvab cociseli do wuj guzi coeco uru cecis ubgi hosugefa do. Zaimdeb likageh tojjom cik emihusfa zec wernini ca ruacacur tagnilo irwo to jobud rup adwar. Mac na av irbuhaj dokbew fivifva notnolet wab tebeg dudnere uce guarmi ol nasu."
+  },
+  "apiKey": "9b64047d3e43a7742cfb2671aabb0b85fcb78901434b319434f7589ce2c331a9",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
