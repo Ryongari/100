@@ -1,0 +1,26 @@
+{
+  "name": "Lenora Hansen",
+  "age": 65,
+  "address": {
+    "street": "Ederi Trail",
+    "city": "Tenserzud",
+    "state": "NC",
+    "zip": "69151"
+  },
+  "contact": {
+    "phone": "(768) 555-3506",
+    "servicePhone": "800635913"
+  },
+  "birthday": "1980-07-19T05:55:20.426Z",
+  "ip": "188.119.80.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Pi posa imicajid fig wujzomor damke hop evuwi wupo ip zobvulla puzihha kuf jizis tazmok fa. Pu we dizbohjas mes jofata let japawoti anmeowo lizpimil jeg acobofal mujom zeomed sonzimez ohawabwu sifu lerkaako odezez. Wirhafu sabo muaz rol webo kelofrih tujjoc wouzoci ratse bawvu guacjo sori bapo zu.",
+    "bio": "Icfuh bi ge rofazi hacod ofoneb lafin nu bug vu nuseg mif emaje. Gebugan besser vetzel ipzu itidezoz litbip mami kocino gozrelca gi cotigpu ih afugaha kaganegu oragi pe uvpi pogkehi. Jon lihe co heb heej ec duvokdi tukrece fijcujnam haz epodi abocuvaso fodi."
+  },
+  "apiKey": "0868bf2d7257022f66d37e79866517319fd1731c72d060c0bdc83ac4624ec658",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
