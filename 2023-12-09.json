@@ -1,0 +1,26 @@
+{
+  "name": "Daisy Berry",
+  "age": 27,
+  "address": {
+    "street": "Mapta Circle",
+    "city": "Linepel",
+    "state": "WY",
+    "zip": "35452"
+  },
+  "contact": {
+    "phone": "(411) 735-6981",
+    "servicePhone": "800419286"
+  },
+  "birthday": "1980-02-18T03:35:12.918Z",
+  "ip": "170.35.243.107",
+  "foo": "bar",
+  "profile": {
+    "about": "Rikdi ilo iha ges katzami damegat cip pubimral hifhed jocuk fedo zu dapok. Tuokve sujufguh ize uwaatcuh tumjafen kup iri kibzak do obder udbiut cijiup nopa pukzuoc. Ugokidok panza dustuvci cop vo pebvup puka jobu vazat hutac jatnugvi hawzu go jus pojogawi cizuksad fasolam.",
+    "bio": "Bidmet gupod ibzogag veszizer ewo bofbumza gibzi devives nepwopkib wahber ecohun hejulo hez. Ha ruf fozpu seg ni mo hifupewi gor hif fidagsu iha da dibuppe ezwodas wemiz. Linikme zo enobfiw geve ju zipor sohvi na erevubo uhataite pulsa ligu kuclomzoc. Li gi zugap mawri gi jon kig gujas ida hoedhe obmef uwobu ri aze eswa vaiz hej hug. Iz aruni otduf cihac despuja urbo meze ginezi nakgev ob joj herlu hi itsudjus budma."
+  },
+  "apiKey": "3e943c964379a2f5c4a9da8e27393cbda6fdc93d99abdce025e9e5f5fc181f50",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
