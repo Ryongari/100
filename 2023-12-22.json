@@ -1,0 +1,26 @@
+{
+  "name": "Nicholas Gonzalez",
+  "age": 52,
+  "address": {
+    "street": "Doku Place",
+    "city": "Nodadbez",
+    "state": "KY",
+    "zip": "59267"
+  },
+  "contact": {
+    "phone": "(880) 566-5261",
+    "servicePhone": "800314527"
+  },
+  "birthday": "1989-07-20T15:52:21.098Z",
+  "ip": "65.10.8.59",
+  "foo": "bar",
+  "profile": {
+    "about": "Vutime utrumze ozo wuhgukcok beflot no fov webefma eg nuhus ki dizhoz. Sabebve wav nadofo vuswezbom hiwakebo cu elaso hogopdeb rupoben ewu pecbihbi le miz kaklahru pa du. Elasu av lukka tecipo vac ak vuk luturun ushuh sir juh bobib avocomuc akupus sougvo fobli awo tu.",
+    "bio": "Tuzci umafod abci cusavaoze puhnu lo kel vojcuc zugufob cah dofzef bec zagramiz pusuh wenahtov afputep bugiz ceti. En mo ono nuwfivgob po jefricce bobjame tow datcab fadwirve tein kutenisoc. Fivo esateka kibazu mucin ar pafoddi kikeubo lisiov sinofog budoj gutsug pusramo."
+  },
+  "apiKey": "291f1c9c569cbb11050dd7d0942731034f77120d7e95a2cf2d9d21434c1c328a",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
