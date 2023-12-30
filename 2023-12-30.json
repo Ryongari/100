@@ -1,0 +1,26 @@
+{
+  "name": "Mike Hoffman",
+  "age": 63,
+  "address": {
+    "street": "Tamip Glen",
+    "city": "Omwikog",
+    "state": "TN",
+    "zip": "56230"
+  },
+  "contact": {
+    "phone": "(513) 227-5720",
+    "servicePhone": "800933926"
+  },
+  "birthday": "1963-02-16T21:12:52.205Z",
+  "ip": "47.44.80.229",
+  "foo": "bar",
+  "profile": {
+    "about": "Umput tauzi joupo husbarmil uk vipablam horke no gike ena no jovorzi. Lu ipa nukvib befkahho fatpoz hihev ad up owedoka tu eveisaj izjih. Esibiz coltel meoka tib lon epe teore taw ukzoz cimegji fehdejfe kudso sorgikeg bericu sa.",
+    "bio": "Do arabe feriswe olelevew en liibu giwez bob vool pikni caku huaguom hipkec rerfil codvodcor. Edi zotib locem rilwohun azekig zasogiget boc bemaij fejvu gehiam heurgi zag hod goitbem zu. Junuk ditpo cuteki ami wuv me nasar nipbamsi dib hifopliw timilo agelazge sere eju. Gomuse lanto ca bef vekoc zoaw du fapep ivgar uddi utdewese ervo vipac eku zitafulo."
+  },
+  "apiKey": "6ccda9f030ab424a5db302752e132fc59fa42314bfc54c57d5069e50ac7010b6",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
