@@ -1,0 +1,26 @@
+{
+  "name": "Mabel Gordon",
+  "age": 20,
+  "address": {
+    "street": "Heraw Manor",
+    "city": "Ijwada",
+    "state": "IA",
+    "zip": "56036"
+  },
+  "contact": {
+    "phone": "(873) 447-6180",
+    "servicePhone": "800145322"
+  },
+  "birthday": "1973-01-24T03:58:26.409Z",
+  "ip": "223.100.76.79",
+  "foo": "bar",
+  "profile": {
+    "about": "Bubzinjaj ma cipsu mufger zi pec okuduzdo anji ma ve epmuj nitmoco watoscun inpup mowoibu udomen. Mu luzut ezicimle tub ocaho hoogeno kaclu miazvoj nutro iteudwe cusu tuw diglila no zif hikricun wagwudnig tac. Puh rag uz niz cengi tomawi ti nazjomwew pu roinuvuk gev petep.",
+    "bio": "Ge bog gohvipis cul guubiiv lar cidu rigzep namrana ecakoze raredtu wovjerno uvluje ger. Hobenbuj reg pihicmej biwupcu ugoomhi ohiwo bupa ozipis buh vuwoiko nadjenak kuwic litih vumam soksu cip ji. Fa pud guv fudur gipute zowdopus zelcul oje ubsepu jufgo rufre ceaz. Dud sosig gohgaplej hipi lakudu ijbo vapgol coroha ugtibfiw gahovo lahujo ga. Vaitlu kil umo abu bulmu sufu il opkilir boiwi weuwcen niboreha se pozzifum meluuf ri. Ropuj ci naiga tiskufiw cep ku tecacin rafsacu wadezoz fur mov unekib okuze zauf bebecca loftan vijzu ebigu."
+  },
+  "apiKey": "3924f9a273dfe76759732f855fdb78eee1dfbd531850edd3cdb02eb7d4513ef1",
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistan Som"
+  }
+}
