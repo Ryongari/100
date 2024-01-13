@@ -1,0 +1,26 @@
+{
+  "name": "Elva Nichols",
+  "age": 59,
+  "address": {
+    "street": "Faso Place",
+    "city": "Ujumauli",
+    "state": "MS",
+    "zip": "78750"
+  },
+  "contact": {
+    "phone": "(340) 419-9598",
+    "servicePhone": "800541625"
+  },
+  "birthday": "1974-08-05T12:17:08.262Z",
+  "ip": "186.103.87.171",
+  "foo": "bar",
+  "profile": {
+    "about": "Ta afdev fi efikaw wibi bog vokuk retkemgar neese po lapan naknid ormasi edeunhe hada. Bub ni febo idlehte eru til behimgul notib ap veb viw ciri jaj. Runosav badgado bonro cezdem ro fufe fi reteclir rishi vuwepsid de zok.",
+    "bio": "Dewokaral sojanti urola oco igu ri lovassej zazdelcer in usu riik utiwop. Puv hum hices rekbom no ditiwo jici rufpife odu waj sizat ubavdup ikhudkom he deccu. Aco jobsi lujaf ap be gab tegdapba niwogil nasiliafa vu ibufasge laoso kaj wahu pet faamerin amuile agpewhih. Was gama diswaligu cuvaer relfijuz iheaslo ru kijso cuopha avuroihi kejwedal ejunuzib mersuih vafimjos. Tew kogin rewmobuh uc ip muuw kigsafnek ahpa vewgagec buwdulfa esfus tilib acitolo zosupi wuj diw huc izekosa. Keg buhmew de es dopahpoc bazida rocgud abfiw pu vupimla libevutin ho upoheoj ga nemsuh bu. Poramo milbinowo ca op ajotife zafetehu gez gotahada merelas nofura foiliem fu aghip ulereano."
+  },
+  "apiKey": "7641a1d3d5c2fb4d280c7f9f9c2e28990eab0100e300dcb1df7c5b05340b9513",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
