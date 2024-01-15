@@ -1,0 +1,26 @@
+{
+  "name": "Mike Parker",
+  "age": 45,
+  "address": {
+    "street": "Unedi Parkway",
+    "city": "Gilkamu",
+    "state": "WY",
+    "zip": "54247"
+  },
+  "contact": {
+    "phone": "(337) 660-7519",
+    "servicePhone": "800196357"
+  },
+  "birthday": "1986-06-05T19:36:02.097Z",
+  "ip": "184.61.106.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Hem owigogig uruparen nitsiw gaivehaw mewcisat iwufe sac meppur re tuvca gugim himeka. Ebimuapi bo gu mijbuc jodzid few kilveiha hik dij dilbe tec gacog gommev. Getun fugaus irvacab der cag enu dunis ba emuseczos hekla pucemnom ozreko. Pospez jam vuzjo rug epluj horgupe oge zedma bakitika wi ukgawwo junko gekegu retuhepi erzazu ulewon ujote kulpajeh.",
+    "bio": "Dakru kotji ruwwek it vig eplege ufsud dogfig cirkoofe su mahudgus okuarrak pikco mofjivdo ifokpi ovke. Kukap rocu rida fivbu janop fes gi gap ida ucifanad sah feut ninpe cenaf. Cufbeme ni oj bordidzud edu togiile pu zemicju pimgaf loaj kodbaf ifeebdi ejpuk ol cujas fir mibmu paot."
+  },
+  "apiKey": "319415c141f782db8e06a345bdeb38cafe75cd11191b43506d69ca5a3da0289b",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
