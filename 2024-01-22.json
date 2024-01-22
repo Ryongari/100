@@ -1,0 +1,26 @@
+{
+  "name": "Jose Barnes",
+  "age": 23,
+  "address": {
+    "street": "Puev Point",
+    "city": "Fatgukhoj",
+    "state": "NJ",
+    "zip": "22853"
+  },
+  "contact": {
+    "phone": "(835) 778-6832",
+    "servicePhone": "800215796"
+  },
+  "birthday": "1990-03-18T21:16:51.655Z",
+  "ip": "207.159.117.35",
+  "foo": "bar",
+  "profile": {
+    "about": "Juc ihealaam iw anuol eteihe osi nuw hame siruri ov ne wogzi su ezu. Wegfewi nik zukiwi jopsi tibder ep inu atgef rekwajzoh rouruki faofiwi rensekvap kebatuf soha. Eremi vomugro zojawwe jupiip jah ibosakvaw is bivkowzah omid fiweji fa hi wap fuazo jelu tuf ru. Pej mip re vow upekevac wos izbu zosobiz afop hero miczoli adadoar opoje ecsobuc himi jocvelgut. Lile raav gedren tor kopwutbuv kaz dim nutvib mawemu wevet hop adarupcib golaf kudubi nuja bas teki wuluw. Bad ga uswej mi uzotiz toes bitajiba janekefuc getranva avuduvda bup ozuepubep. Li labava run wehone gajatwa isofwi morig rabihloc co fec vujiavo ju adave cuckemo vapsov artuum ugcowo.",
+    "bio": "Bujrora avces caogha no ebcanabo wo rozugu net ude achuf folmahfi kadolzi vomteleh cepid vop ihutu pije. Vaunuapa hav otufoho manrukwu juw zenrot femob vogeazi otudig gozuuti peibij basaepa mezu fonah dale jumazce agovemu. Uppensin valfipen ni gibut rud fibcuv elfih bev nifbur viniha ufaohwi fi iz mu ac acupopje ritkecu. Etopu gu vumas dalijelof del onoca me subavuz garvov ekurab dokos dedifi zi femi. Nakcal tajfegkok hovehnuh divgik ozbuvuv vashegi es sopacla emna mu azebaduj fe kevjaej jekfus."
+  },
+  "apiKey": "b1b04e8934222c8dcd2c20340120e696d933782ca610509777bf9bdac703c685",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
