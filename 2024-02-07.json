@@ -1,0 +1,26 @@
+{
+  "name": "Rosa Gilbert",
+  "age": 23,
+  "address": {
+    "street": "Gaori Center",
+    "city": "Pejecge",
+    "state": "NC",
+    "zip": "81376"
+  },
+  "contact": {
+    "phone": "(573) 263-5163",
+    "servicePhone": "800654983"
+  },
+  "birthday": "1987-02-09T04:03:56.029Z",
+  "ip": "91.113.49.70",
+  "foo": "bar",
+  "profile": {
+    "about": "Iclukkos berosu bewewjet iledi peneho onjok haawac ju ku ve powsepo gup fikjeg. Octaufe kewar gopuc bu nazwokulo husa fi cedneg etrijase nam apo bopbukite. Sasuge ulfu ha todoj siro ozu igozuhpu didi hilu tiv mez fepe nih wahapat ewa gud. Jitusrug misotlew iladiz efipo puludjok ugma su mapuzaf ise gu hi za. Mo onahoz ak zido awe ew lifek tikiwiru wan biavoz ko ek risih hemon. Mufkuzte defru jenrek ho fekowsid geujtuw vukitil cod set doopi pujak kotje me kirrour wep mu wu. Largobzo aru sabpamewe zica ukiwub awas tucmivit mituf behtepkid beb besot cikevelan jelut rew.",
+    "bio": "Mimehimev uforohni zosup orobob ul etwij ek acoeggi wos feggak oce la ogwo welo ci rem icudenuz simbeuhe. Ekamew pizaoc puz aseazi retgemat ta vitkofsu duwi tencezic oja ninuhude zadot muzijgoj. Furif tojep do lec gokob esaper te ven oz fawhab gi vara ollafza hetjob."
+  },
+  "apiKey": "368befad02f65985000ec7c89ca113fd16335f5a28ebb4493e32d48c359d40a1",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
