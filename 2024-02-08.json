@@ -1,0 +1,26 @@
+{
+  "name": "Richard Clark",
+  "age": 23,
+  "address": {
+    "street": "Seum Highway",
+    "city": "Awumisum",
+    "state": "WI",
+    "zip": "08153"
+  },
+  "contact": {
+    "phone": "(402) 324-3655",
+    "servicePhone": "800817577"
+  },
+  "birthday": "2005-01-01T05:35:39.215Z",
+  "ip": "123.49.53.209",
+  "foo": "bar",
+  "profile": {
+    "about": "Zicpit upapadnuw redihriz paemzuh wepvegci modav zagikuh zubcif basfahvu bahkeni pahomof eketeja mu. Naz gej divem wim je zevmi go tajca omkana mivamdo tunho gagu. Hi duijza zaavi nulupro vogu for woka wa tet cafcospot gakur pocophe hoh custan. Odueb jecapid vucepizis ve cazcomji nueha hepcuna jatitzu gad oprulej za piap kampi sitwul gogbofpiz. Toje re ugas puub tofiv sedpodga te wogzu rupev ge emaviw zueh. Kofela juso rokmenob hi zitiwhet uhtule aza tebha gij rijlufmuh hapzueno vipge lepdalhi pu hoizpo.",
+    "bio": "Fu teme wohfoco efi zose er tumcef siuk erakebmop coz gupoumi acalzi. Fuolmi kenhu jamof zemlu sog nab uniwida solaniaza ovu gizkes sa pe sunuf guv ba wis ikaodro. Lepvu cosvelwu duwuk vuzfel zoj vagulo enosar ti zezummi agirib eshes lajlijem zeof. Tin taoh buzjebow zar van dat apuulave viufori ruhuv heke teclapo so ujmeg pe joh udomam kiwuh."
+  },
+  "apiKey": "8b132b9bc80b94c6d26f7c667228ad9caebb2153dbe722362a3452d0c6a21396",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
