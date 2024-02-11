@@ -1,0 +1,26 @@
+{
+  "name": "Leon Glover",
+  "age": 30,
+  "address": {
+    "street": "Pitva Highway",
+    "city": "Apanasaf",
+    "state": "ME",
+    "zip": "82924"
+  },
+  "contact": {
+    "phone": "(577) 439-2566",
+    "servicePhone": "800492789"
+  },
+  "birthday": "1977-12-22T18:37:38.673Z",
+  "ip": "34.165.88.233",
+  "foo": "bar",
+  "profile": {
+    "about": "Ekujoz cunceg reclodwiz zemozin na beajzo ik ig cuijlic bofelce embigcek reb ziilebo. Len mazu gif teci elavu leluve bigfava fafzowo mabmel lidfu nam lacnul do ne raode. Upu ifewo jijme belot hi ece dourumow aka futoharib ofe rirdil zisnongiw tasjuok wosuuho.",
+    "bio": "Fe zo tuzimej avosinuv becomi ib kurfales tuf niwi ilowob morcashew ceekako dopav zehke. Uwoguj batri umvaug uzroob tupzel gak esamu azguh pe cuh zera serek pemetmo in uglu opo buplidu gewcepbo. Ik kebmunu ec sutivi fapmolra hudi wa nusmuer wesasoru lognapeg wozlev makjepsij biis lem tifebap neonte."
+  },
+  "apiKey": "8037bd29dd7b2809a18902b9f6c2ec17a08b4b91aaaf8d0e8949410bf920a6a9",
+  "currency": {
+    "code": "MRO",
+    "name": "Mauritania Ouguiya"
+  }
+}
