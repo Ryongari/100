@@ -1,0 +1,26 @@
+{
+  "name": "Donald Sherman",
+  "age": 50,
+  "address": {
+    "street": "Lalve Pike",
+    "city": "Zeduvduz",
+    "state": "IA",
+    "zip": "41334"
+  },
+  "contact": {
+    "phone": "(760) 961-9645",
+    "servicePhone": "800217459"
+  },
+  "birthday": "1986-01-26T19:58:53.713Z",
+  "ip": "166.145.183.153",
+  "foo": "bar",
+  "profile": {
+    "about": "Ug zomzoana wemdese fanwumo co cen fope mi itukotil kivucra rugorwof ajvag di epadmig geole. Dun wul bi gusho du culuz de ma veftoj ugivo jezhij lowigov mor wi kuimoub. Ro ec mu kovuvdi fat ulbeb lavwoet ov pagwatas gibuc ba dodvoni pecig romeve juk fe hezcofe.",
+    "bio": "Faz ipihi egu rat vub tebso cupe vafpibel edicad nuwaziw rov owvagvem. Ezebi asiluter vobi az uwacan liwa zieso otva zodod hahwop gioci revehu jo sadeg fu bez wapapfij joivu. Hi motijbif vu pak min aheja ba ej lef cod nagorno fisuz doc navi hotdahic."
+  },
+  "apiKey": "cbabeac7be4987df8b132f0f6914ddfc7e5b6c65eba46bcba7b1e2b7834b2f08",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
