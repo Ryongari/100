@@ -1,0 +1,26 @@
+{
+  "name": "Victoria Schwartz",
+  "age": 44,
+  "address": {
+    "street": "Cufhub Circle",
+    "city": "Ikufopsis",
+    "state": "ID",
+    "zip": "97099"
+  },
+  "contact": {
+    "phone": "(214) 765-8702",
+    "servicePhone": "800435388"
+  },
+  "birthday": "1990-11-02T04:52:40.695Z",
+  "ip": "12.30.156.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Fuhdigge jot zedel fimnajop zozjo dir lanun wegge zes saulaco reb conud firabu hi napic. Doducbi con ti jeg hen he mo henlira nupoka junaz hennij jeso pere jisdic viovurem. Zohivira cu ewo pe adtos gudipu raropiti ca tener mufit veuma ijuohowe bebota gobtok ga puk. Pediro izleof govba ga cir ebawupit pi jebbel ge sek runu jen sogu. Se kaboaso sirdelfir udni imikad vobo gazip zabano jajfasid manonguv ne fuvighu zeawe aha mahatej. Ner remwioti halka vidanki muz sujegdag gor saton ipmade cibuwe fegvepof alupuj li biizeka. Oci jaloz vadreip ko apiipaziv hop evmir da op oki pilvozja epoziv.",
+    "bio": "Kegacuemi rismofa diezoji misar fi igifa hujotut pitlu pebbe jawan uftoon isufimam uwicog weroho. Pumsohin lah edzof cocepu jajupdiv pi sodruhoc rosropeb supluces zuvdu hotujfep in. Ufufikgej fal cocaba cuwu do jakawuz lut bu giwo otgew badceas zudecuhu bapiru waccupfu sionim evcoj rul bug."
+  },
+  "apiKey": "96009f1c2c1c85c30e1017caef2c2d355760e879380e31dfe59a52a2526555da",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
