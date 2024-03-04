@@ -1,0 +1,26 @@
+{
+  "name": "Jonathan Ross",
+  "age": 23,
+  "address": {
+    "street": "Dumsu Street",
+    "city": "Wasaun",
+    "state": "IN",
+    "zip": "76353"
+  },
+  "contact": {
+    "phone": "(788) 854-1295",
+    "servicePhone": "800891941"
+  },
+  "birthday": "1994-03-12T13:36:50.566Z",
+  "ip": "167.54.27.84",
+  "foo": "bar",
+  "profile": {
+    "about": "Jisoat pivim wol cotmo zirowi acnowku ovaukuel jucbe sa wibo lonukal jamitur tof vuzir manase konsesub sezuku olpedla. Va sisaknig vat ire lelsov bo zawolfor surrel ta ereepeaje giw abudenna duwhat ave lur huwil ozevauba. Muuwjup bame zuwawo kega otdacuf bowi ajuhi caw icu lur ijica kafdi wivbab on kuz. Ehhif zutca bowsak akouteza dabebu je ro pajbanolu catute girer teuf do cibibwic. Uhfa ovulhir lafe pub efso su cofmigluv nabapfib ka ciztafok no cigus.",
+    "bio": "Sim fup zozoves sukoho onigul va capitipo aragic gadejne zas zunar lodjevu ezusouwo eb foca anejahu go gibolpe. Zurohe ju ji kecektet unezo oter avsa kahhi rejav awadoj junliju te ohbopno retovza. Mudo urbukab wufusli bo bid dedmaznu hujpuj tafcis dohro duk wir ha lapeku cab bengegsoc opihzon raj. Jiko rawtep putuw gucsusviz tocrit mi du jemhu gi wuj junvajuj ridlu efanazoz buja iz begar poges."
+  },
+  "apiKey": "059b65496a2e110bcddc84892eb2aea155627fef5f6cd2cb86f771ad5db8873c",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
