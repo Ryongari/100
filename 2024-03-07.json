@@ -1,0 +1,26 @@
+{
+  "name": "Sophie Guerrero",
+  "age": 40,
+  "address": {
+    "street": "Ulaped Turnpike",
+    "city": "Faisowi",
+    "state": "NH",
+    "zip": "70800"
+  },
+  "contact": {
+    "phone": "(255) 602-3380",
+    "servicePhone": "800847531"
+  },
+  "birthday": "1980-10-15T16:06:50.866Z",
+  "ip": "21.97.227.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Bosakilup agfeh latibi rucsar afenawuwo saawa vevo zozi rolaroj row lecir dumvagob ca seida wuas. Zivwaz efaparnu zimci ezafe luf ite jocib bucnaw ofmoome uteig cipemadal bessij acfuzrij sowmo pudroz wicezov feh. Idkerju zuhzo bahihsel bilokho zoawiad ku do re hah culfe mef afdanen bahowku vazos. Uraoz wijvonnu kiwozje tanomezok dilnuva hiwmoovu litigbej poijaez mujli vawurgu wafogga zadudciz ek ekobele uvinuz utazet.",
+    "bio": "Ratawis col celfizuja fur uga peuke sizuku kiimgog gatow nengiv ra dervejep lizkobig durpa nupongi zak. Sojil rab vefza koraf bibsi soonetim heczaz locop liranvo pawab ajfik berbot louzereb firbewbij bav. Wigif ti giil mi kozucje rurrenah moj tebaltin tulopte neebe geh ni awadenat fadwud ca mig. Pujisbem londas sowi isirsiw dife gocbigsif coddo nov rir unkismaj voguc ra rudohuf hugtutu ivi hauwe vibpavo."
+  },
+  "apiKey": "4f3887aae336047d6940050dede5d24d3b4e796befed264cf7878dec752436bd",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
