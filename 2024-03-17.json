@@ -1,0 +1,26 @@
+{
+  "name": "Nellie Dennis",
+  "age": 24,
+  "address": {
+    "street": "Ratuhe River",
+    "city": "Lusuvoki",
+    "state": "MT",
+    "zip": "13289"
+  },
+  "contact": {
+    "phone": "(669) 588-1980",
+    "servicePhone": "800535145"
+  },
+  "birthday": "1968-05-08T16:46:28.366Z",
+  "ip": "39.110.205.119",
+  "foo": "bar",
+  "profile": {
+    "about": "Zig ojwaka ezasavke ru cap fa bevoc otifajla soof remtin pien iniag siprusbez izikaw. Ino dulpamka wujijep hiccaztup elcipre fa migke jospi gan ekuja nemuvibe fanpurton fudipoba nikug zod ruknenhic. Tin ko uh egoru vizooko inijuj irajusno ullu wug odezemoda mamuso re usmuto hieredo pa gognig efhuj iruire.",
+    "bio": "Asokusca erkoro ca pev izofub japtajo ji cuhucu hajnu jiesvaz ovuzono gopfa dotgardir romgoke. Ulugohot nepec lalgogsun fuzeve cambof elieju ulubal ba unu wog kaid sofpe litigu. Onudel cut gaego ow zahwo lum tul jersa kopuzuiku ukoic jaku falduef agcan vuv."
+  },
+  "apiKey": "97f491804369dc6b55ac389624280bceec18916853778ca8271ee7d097ed52db",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
