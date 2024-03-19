@@ -1,0 +1,26 @@
+{
+  "name": "Alejandro Sherman",
+  "age": 19,
+  "address": {
+    "street": "Eruoz Drive",
+    "city": "Pepeta",
+    "state": "UT",
+    "zip": "39947"
+  },
+  "contact": {
+    "phone": "(935) 383-8320",
+    "servicePhone": "800317834"
+  },
+  "birthday": "1981-03-30T09:47:50.185Z",
+  "ip": "159.163.29.130",
+  "foo": "bar",
+  "profile": {
+    "about": "Paj ak ohli cotbed cidazin jivnujum fepekuare raddep gigirdud efmaj febanidil zi nu. Nu fu murni cehuj jir bulispu funilgu buhus ewgafka wu lufo zizetneb tul bu ohsalok. Liir bobop tulsus karwi vejgozlik vuniromu fejal ik vindan famuza ek isiibage joen edtarli sokeke viz zov. Limgah se mumeh puw mufwiwpu mukto wew ru akguuru ep emili to ibu ho vemot ezeuj. Wabaf ut lun of cewefceb dubiv palgulhe wuzpabi lihu serna ovemugel rirbebzot jiz bohal odpo weuh. Efruwli wuv po ze vi rotpicih leduhme kem mon teproele lo vilrogzez.",
+    "bio": "La ol vevi kasi biser ja zecziwef suziri fozupca otdakom iw tozrigu upri pigwacred. Ejvolko mo vic hini ecdab usuza cag ihtonjug ofno vitsakvej ton ubihi awucehid hot isu tugeh tilvojwo. Zu nethu lif siw ces omrewo kagevcu zimi zusilrab julu cew ahadukbi woli mosofbu kof sic. Guvbo dotbo bowkavbu tinajaf zevzew bidivto jipjurove japtihsa vebnavsij ka cul jewzago fi gunhi. Gudde menep nevom ehwa uli hupe kem hu vabo vurdoh nilawnu zecun vet ok ugpekuh bizafku vifge kuduvij. Ic rutir seczij juzod hitit lo mowi inmuk baejwuz joadeon du to lidez tufo ib lavek icosic ejekuab."
+  },
+  "apiKey": "a6a1ff96b29afc412001a8ae4d5ad7b6182d7c88349f7d485f6d68f28e8d6c54",
+  "currency": {
+    "code": "AOA",
+    "name": "Angola Kwanza"
+  }
+}
