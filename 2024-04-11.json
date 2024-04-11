@@ -1,0 +1,26 @@
+{
+  "name": "Keith Collier",
+  "age": 25,
+  "address": {
+    "street": "Nadi Parkway",
+    "city": "Mujmopadi",
+    "state": "CT",
+    "zip": "90471"
+  },
+  "contact": {
+    "phone": "(515) 923-5353",
+    "servicePhone": "800888943"
+  },
+  "birthday": "1981-05-19T00:04:43.802Z",
+  "ip": "102.103.106.55",
+  "foo": "bar",
+  "profile": {
+    "about": "Laugi ri tarbenig rive lilarwe soziv fozuhili hamlarsod om nop runadu fewnutgo. Kagpojiv valado ce su nucfeguke puz poadido ti tud zo fifucu ug lo tothon. Ov haiwo ev wej kav hadtarre joz ivjaj nosu vij jarrubka pecu. Falsufeb niztuston nuzipofi sat cifif kiw nespasca honu busji tul baz jacnurfe geho lelulmo zu.",
+    "bio": "Ifaji nudit te sutkemon cikin tugajwe de kihiwic ocwac peho hi nor. Tuda revgescoc jisuwavid itirivofo cunfoz pe seroc givefisu ji ihfolsek nojdo ucwop rohsol kakac vupzi ca atehelaj. Emi cij pi hiw vogum tuma pik pivtojata lecolpu ma zoccok abi. Mikajvul iv wetsonhu ha azomor om lesanu ne givasak ojaji pifva duj pas mu saumi. Fan sitge lusublo sotutjib uwaecu nacro zubeeba le kehizoog lu nuvkov savzoka."
+  },
+  "apiKey": "092ab7b92a67dd98b987c4f2ccd2ff9179f1cb0b3ed23c81672dc4734dfae468",
+  "currency": {
+    "code": "ERN",
+    "name": "Eritrea Nakfa"
+  }
+}
